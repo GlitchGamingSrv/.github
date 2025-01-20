@@ -1,5 +1,5 @@
-# Welcome To Project Neon!
+# Welcome To Glitch Gaming Fortnie Private Server
 
-# Project Neon Is A Fortnite Private Server
+# GlitchGamingSrv Is A Fortnite Private Server
 
 # Created By Ryse @ https://github.com/RyseReviews
