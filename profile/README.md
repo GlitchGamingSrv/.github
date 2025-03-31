@@ -2,4 +2,4 @@
 
 # GlitchGamingSrv Is A Fortnite Private Server
 
-# Created By Ryse @ https://github.com/RyseReviews
+# Created By Ryse @ https://github.com/Ryse404
